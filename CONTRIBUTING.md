@@ -37,3 +37,5 @@ Open an issue if you have questions about contributing.
 **Important:** This repository is strictly for AI prompts. 
 - Do **not** post advertisements.
 - Any off-topic issues will be closed immediately, and the posting user will be reported to GitHub for spam and malicious activity.
+<!-- Thanks for maintaining this repo -->
+
